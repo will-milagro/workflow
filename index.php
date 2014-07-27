@@ -190,7 +190,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-sm-6 col-xs-12 left">
-                        &copy; 2014 Praesent nisl diam.
+                        &copy; <?php echo date('Y') ?> Praesent nisl diam.
                     </div>
                     <div class="col-md-6 col-sm-6 right hidephone">
                         Proin | Metus | Vulputate | Curabitur
